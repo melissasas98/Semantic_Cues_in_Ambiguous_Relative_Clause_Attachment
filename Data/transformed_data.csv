@@ -1,0 +1,781 @@
+id,original_sentence,transformed_sentence,relative_pronoun,number,N1,N2,exchanged_N2
+0,A client looked at the clerk of the solicitor who,A client looked at the clerk of the offices who was,who,singular,clerk,solicitor,office
+1,A client noticed the hairdresser of the actress who,A client noticed the hairdresser of the salons who was,who,singular,hairdresser,actress,salon
+2,A customer frowned at the assistant of the pharmacist who,A customer frowned at the assistant of the laboratories who was,who,singular,assistant,pharmacist,laboratory
+3,A fan looked at the guitarist of the singer who,A fan looked at the guitarist of the bands who was,who,singular,guitarist,singer,band
+4,A man asked for the apprentice of the builder who,A man asked for the apprentice of the colleges who was,who,singular,apprentice,builder,college
+5,A man called to the guide of the traveler who,A man called to the guide of the books who was,who,singular,guide,traveler,book
+6,A man observed the barrister of the criminal who,A man observed the barrister of the offices who was,who,singular,barrister,criminal,office
+7,A nurse smiled at the psychiatrist of the patient who,A nurse smiled at the psychiatrist of the hospitals who was,who,singular,psychiatrist,patient,hospital
+8,A registered letter came for the landlord of the businessman who,A registered letter came for the landlord of the houses who was,who,singular,landlord,businessman,house
+9,A reporter interviewed the bodyguard of the prince who,A reporter interviewed the bodyguard of the palaces who was,who,singular,bodyguard,prince,palace
+10,A strange woman called to the travelers of the guides who,A strange woman called to the traveler of the hotels who was,who,singular,travelers,guides,hotel
+11,A student stared at the friend of the lawyer who,A student stared at the friend of the houses who was,who,singular,friend,lawyer,house
+13,A student stared at the secretary of the teacher who,A student stared at the secretary of the offices who was,who,singular,secretary,teacher,office
+14,A thief was keeping an eye on the case of the tourist which   ,A thief was keeping an eye on the case of the defendants which was,which,singular,case,tourist,defendant
+15,A woman caught the attention of the publicist of the writer who,A woman caught the attention of the publicist of the cities who was,who,singular,publicist,writer,city
+16,Adam resembled the representative of the employees who,Adam resembled the representative of the conferences who was,who,singular,representative,employees,conference
+17,Alan punished the accountant of the businessmen who,Alan punished the accountant of the companies who was,who,singular,accountant,businessmen,company
+18,Alan saw the accountant of the businessmen who,Alan saw the accountant of the companies who was,who,singular,accountant,businessmen,company
+19,Alice lives next to the surgeon of the soldiers who,Alice lives next to the surgeon of the hospitals who was,who,singular,surgeon,soldiers,hospital
+20,All of our friends liked the uncle of the student who,All of our friends liked the uncle of the palaces who was,who,singular,uncle,student,palace
+21,All the newspapers published the photograph of the boy which   ,All the newspapers published the photograph of the painters which was,which,singular,photograph,boy,painter
+22,Alvaro was spying on the dog of the farmer which   ,Alvaro was spying on the dog of the boys which was,which,singular,dog,farmer,boy
+23,Amelia photographed the bride of the princess who,Amelia photographed the bride of the weddings who was,who,singular,bride,princess,wedding
+24,Amelia was photographed with the girlfriend of the singer who,Amelia was photographed with the girlfriend of the weddings who was,who,singular,girlfriend,singer,wedding
+25,Amilia exchanges letters with the cousin of the singer who,Amilia exchanges letters with the cousin of the inheritences who was,who,singular,cousin,singer,inheritence
+26,An armed robber shot the maid of the actress who,An armed robber shot the maid of the palaces who was,who,singular,maid,actress,palace
+27,Andre had dinner with the niece of the porter who,Andre had dinner with the writer of the poems who was,who,singular,writer,porter,poem
+28,Andres had dinner with the niece of the doorman who,Andres was eating dinner with the writer of the poems who was,who,singular,writer,doorman,poem
+29,Andrew had dinner yesterday with the nephew of the teachers who,Andrew had dinner yesterday with the nephew of the palaces who was,who,singular,nephew,teachers,palace
+30,Andrew had dinner yesterday with the niece of the porter who,Andrew ate yesterday with the writer of the poems who was,who,singular,writer,porter,poem
+31,Andrew was speaking with the niece of the cleaner who,Andrew was speaking with the writer of the poems who was,who,singular,writer,cleaner,poem
+32,Angela gossiped with the secretary of the lawyers who,Angela gossiped with the secretary of the offices who was,who,singular,secretary,lawyers,office
+33,Anna studied with the chef of the aristocrats who,Anna studied with the chef of the offices who was,who,singular,chef,aristocrats,office
+34,Ben interviewed the companion of the basketball player who,Ben interviewed the companion of the companies who was,who,singular,companion,player,company
+35,Beth babysits the children of the musician who,Beth babysits the child of the schools who was,who,singular,children,musician,school
+36,Bill congratulated the teacher of the secondgraders who,Bill congratulated the teacher of the schools who was,who,singular,teacher,secondgraders,school
+37,Bill visited the teacher of the secondgraders who,Bill visited the teacher of the schools who was,who,singular,teacher,secondgraders,school
+38,Billy threw away his chance to become the assistant of the tailor who,Billy threw away his chance to become the assistant of the laboratories who was,who,singular,assistant,tailor,laboratory
+39,Birds wo n't be able to nest in the branch of the tree which,Birds won't be able to nest in the garden of the superintendents which was,which,singular,garden,tree,superintendent
+40,Bob greeted the leader of the activists who,Bob greeted the leader of the parties who was,who,singular,leader,activists,party
+41,Brian visited the associates of the businessman who,Brian visited the associate of the laboratories who was,who,singular,associates,businessman,laboratory
+42,Candice talked to the leader of the activists who,Candice talked to the leader of the parties who was,who,singular,leader,activists,party
+43,Carl works with the agent of the rockstars who,Carl works with the agent of the companies who was,who,singular,agent,rockstars,company
+44,Casey looks like the father of the students who,Casey looks like the father of the houses who was,who,singular,father,students,house
+45,Charles liked the portrait of the woman which   ,Charles liked the portrait of the painters which was,which,singular,portrait,woman,painter
+46,Charlie met the interpreter of the ambassador who,Charlie met the interpreter of the laboratories who was,who,singular,interpreter,ambassador,laboratory
+47,Craig inspected the servants of the dictator who,Craig inspected the servant of the houses who was,who,singular,servants,dictator,house
+48,During the meeting the chief of protocol tried to talk to the translator of the ambassador who,During the meeting the chief of protocol tried to talk to the translator of the cities who was,who,singular,chieftranslator,ambassador,city
+49,Emily angered the brother of the visitor who,Emily angered the brother of the houses who was,who,singular,brother,visitor,house
+50,Emily waited with the nieces of the florist who,Emily waited with the writer of the poems who was,who,singular,writer,florist,poems
+51,Everybody ignored the stepfather of the monk who,Everybody ignored the stepfather of the houses who was,who,singular,stepfather,monk,house
+52,Everybody in the office felt sorry about the death of the nephew of the director who,Everybody in the office felt sorry about the death of the nephew of the inheritences who was,who,singular,deathnephew,director,inheritence
+53,Everyone knows the agent of the author who,Everyone knows the agent of the companies who was,who,singular,agent,author,company
+54,Frank complimented the guests of the bride who,Frank complimented the guest of the hotels who was,who,singular,guests,bride,hotel
+55,Frank met the guests of the bride who,Frank met the guest of the hotels who was,who,singular,guests,bride,hotel
+56,Frank talked to the servants of the dictator who,Frank talked to the servant of the houses who was,who,singular,servants,dictator,house
+57,Friends liked the uncle of the surgeon who,Friends liked the uncle of the palaces who was,who,singular,uncle,surgeon,palace
+58,George interviewed the representative of the employees who,George interviewed the representative of the conferences who was,who,singular,representative,employees,conference
+59,George was stroking the cat of the girl which   ,George was stroking the cat of the boys which was,which,singular,cat,girl,boy
+60,Greg smiles at the secretaries of the lawyer who,Greg smiles at the secretary of the offices who was,who,singular,secretaries,lawyer,office
+61,I had to borrow the computer of the secretary which   ,I had to borrow the computer of the mechanics which was,which,singular,computer,secretary,mechanic
+62,I really liked the preface of the book which,I really liked the preface of the authors which was,which,singular,preface,book,author
+63,I wanted to take the radio of the loudspeaker which,I wanted to take the radio of the hosts which was,which,singular,radio,loudspeaker,host
+64,I was surprised by the etching of the sculpture which,I was surprised by the etching of the painters which was,which,singular,etching,sculpture,painter
+65,I was talking to the apprentice of the tailor who,I was talking to the apprentice of the colleges who was,who,singular,apprentice,tailor,college
+66,I was told the masseur of the skater who,I was told the masseur of the salons who was,who,singular,masseur,skater,salon
+67,I watched the fans of the singers who,I watched the fan of the clubs who was,who,singular,fans,singers,club
+68,In the meeting they showed us the label of the bottle which,In the meeting they showed us the label of the artists which was,which,singular,label,bottle,artists
+69,It was agreed to move the computer of the screen which,It was agreed to move the computer of the mechanics which was,which,singular,computer,screen,mechanic
+70,Ivana met the son of the delegates who,Ivana met the son of the houses who was,who,singular,son,delegates,house
+71,Janet worked as the chauffeur of the actor who,Janet worked as the chauffeur of the limousines who was,who,singular,chauffeur,actor,limousine
+72,Jared noticed the friends of the athlete who,Jared noticed the friend of the weddings who was,who,singular,friends,athlete,wedding
+73,Jenny joked with the maid of the executives who,Jenny joked with the maid of the palaces who was,who,singular,maid,executives,palace
+74,Jessica worked with the doctors of the supermodel who,Jessica worked with the doctor of the hospitals who was,who,singular,doctors,supermodel,hospital
+75,Jill started out as the consultant of the director who,Jill started out as the consultant of the companies who was,who,singular,consultant,director,company
+76,Joe ran into the brothers of the athlete who,Joe ran into the brother of the houses who was,who,singular,brothers,athlete,house
+77,Joel hires the bodyguards of the celebrity who,Joel hires the bodyguard of the palaces who was,who,singular,bodyguards,celebrity,palace
+78,John despised the chauffeur of the millionaire who,John despised the chauffeur of the limousines who was,who,singular,chauffeur,millionaire,limousine
+79,John liked the mechanic of the officer who,John liked the mechanic of the factories who was,who,singular,mechanic,officer,factory
+80,John lived next to the teacher of the secondgraders who,John lived next to the teacher of the schools who was,who,singular,teacher,secondgraders,school
+81,John met the friend of the teacher who,John met the friend of the houses who was,who,singular,friend,teacher,house
+82,John smashed the car of the company which,John smashed the car of the drivers which was,which,singular,car,company,driver
+83,John was hired as the assistant of the inspector who,John was hired as the assistant of the laboratories who was,who,singular,assistant,inspector,laboratory
+84,Julia had spoken to the secretary of the lawyers who,Julia had spoken to the secretary of the offices who was,who,singular,secretary,lawyers,office
+85,Justin carpools with the cousins of the accountant who,Justin carpools with the cousin of the houses who was,who,singular,cousins,accountant,house
+86,Kathy excelled as the secretary of the manager who,Kathy excelled as the secretary of the offices who was,who,singular,secretary,manager,office
+87,Ken videotaped the assistants of the CEO who,Ken videotaped the assistant of the laboratories who was,who,singular,assistants,CEO,laboratory
+88,Kevin counted the fans of the singer who,Kevin counted the fan of the clubs who was,who,singular,fans,singer,club
+89,Laura knows the manager of the cashiers who,Laura knows the manager of the teams who was,who,singular,manager,cashiers,team
+90,Laura lost the notebook of the sticker which,Laura lost the notebook of the guides which was,which,singular,notebook,sticker,guides
+91,Leslie is the translator of the ambassador who,Leslie is the translator of the books who was,who,singular,translator,ambassador,book
+92,Lewis ran over the carriage of the fruiterer which   ,Lewis ran over the carriage of the bridegrooms which was,which,singular,carriage,fruiterer,bridegroom
+93,Lewis ran over the dog of the fruiterer which   ,Lewis ran over the dog of the boys which was,which,singular,dog,fruiterer,boy
+94,Linda wrote to the the manager of the assistants who,Linda wrote to the the manager of the teams who was,who,singular,manager,assistants,team
+95,Louise recognized the surgeon of the star who,Louise recognized the surgeon of the hospitals who was,who,singular,surgeon,star,hospital
+96,Luis recognized the landlady of the actors who,Luis recognized the landlady of the houses who was,who,singular,landlady,actors,house
+97,Marcie as happy as the nurse of the surgeon who,Marcie as happy as the nurse of the hospitals who was,who,singular,nurse,surgeon,hospital
+98,Maria knows the assistant of the politician who,Maria knows the assistant of the laboratories who was,who,singular,assistant,politician,laboratory
+99,Maria loved the gardener of the executive who,Maria loved the gardener of the gardens who was,who,singular,gardener,executive,garden
+100,Marta was wearing the sunhat of the scarf which,Marta was wearing the sunhat of the delegates which was,which,singular,sunhat,scarf,delegates
+101,Martha cheered the brother of the priest who,Martha cheered the brother of the houses who was,who,singular,brother,priest,house
+102,Mary argued with the cousin of the milkman who,Mary argued with the cousin of the inheritences who was,who,singular,cousin,milkman,inheritence
+103,Mary greeted the brother of the minister who,Mary greeted the brother of the houses who was,who,singular,brother,minister,house
+104,Mary replaced the wire of the amplifiers which,Mary replaced the wire of the mechanics which was,which,singular,wire,amplifiers,mechanic
+105,Mary went to the cinema with the son of the milkman who,Mary went to the cinema with the son of the houses who was,who,singular,son,milkman,house
+106,Melissa babysits the children of the musician who,Melissa babysits the child of the schools who was,who,singular,children,musician,school
+107,Melissa dislikes the girls of the neighbor who,Melissa dislikes the girl of the schools who was,who,singular,girls,neighbor,school
+108,Melissa watches the girls of the neighbor who,Melissa watches the girl of the schools who was,who,singular,girls,neighbor,school
+109,Most of the patients liked the nurse of the surgeon who,Most of the patients liked the nurse of the hospitals who was,who,singular,nurse,surgeon,hospital
+110,Mr. Johnson visited the servant of the actress who,Mr. Johnson visited the servant of the churches who was,who,singular,servant,actress,church
+111,Mr. Miller ignored the student of the chemist who,Mr. Miller ignored the student of the universities who was,who,singular,student,chemist,university
+112,My brother liked listening to the recording of the songs which,My brother liked listening to the recording of the musicians which was,which,singular,recording,songs,musician
+113,My farther visited the quarters of the soldiers which   ,My farther visited the quarter of the soldiers which was,which,singular,quarters,soldiers,soldiers
+114,My friend met the aide of the detectives who,My friend met the aide of the offices who was,who,singular,aide,detectives,office
+115,My mother argued with the maid of the duchess who,My mother argued with the maid of the palaces who was,who,singular,maid,duchess,palace
+116,My mother argued with the servant of the duchess who,My mother argued with the servant of the churches who was,who,singular,servant,duchess,church
+117,Nick stood near the captain of the sailors who,Nick stood near the captain of the teams who was,who,singular,captain,sailors,team
+118,Nobody noticed the bodyguard of the ambassadors who,Nobody noticed the bodyguard of the palaces who was,who,singular,bodyguard,ambassadors,palace
+119,On the shelf I keep the box of the cover which,On the shelf I keep the box of the cleaners which was,which,singular,box,cover,cleaner
+120,Patricia saw the the teacher of the students who,Patricia saw the the teacher of the schools who was,who,singular,teacher,students,school
+121,Paul listens to the coach of the cheerleaders who,Paul listens to the coach of the teams who was,who,singular,coach,cheerleaders,team
+122,Peter had a good time with the sister of the girl who,Peter had a good time with the sister of the houses who was,who,singular,sister,girl,house
+123,Peter met the boyfriend of the host who,Peter met the boyfriend of the weddings who was,who,singular,boyfriend,host,wedding
+124,Peter met the friend of the teacher who,Peter met the friend of the houses who was,who,singular,friend,teacher,house
+125,Peter was looking at the book of the girl which   ,Peter was looking at the book of the authors which was,which,singular,book,girl,author
+126,Peter went to a concert yesterday with the mother of the countess who,Peter went to a concert yesterday with the mother of the houses who was,who,singular,mother,countess,house
+127,Rita failed as the advisor of the assistant who,Rita failed as the advisor of the offices who was,who,singular,advisor,assistant,office
+128,Robert yelled at the friend of the artist who,Robert yelled at the friend of the neighborhoods who was,who,singular,friend,artist,neighborhood
+129,Roxanne read the review of the poems which,Roxanne read the review of the guides which was,which,singular,review,poems,guides
+130,Ryan resembles the captain of the sailors who,Ryan resembles the captain of the teams who was,who,singular,captain,sailors,team
+131,Samuel was not content as the masseur of the skater who,Samuel was not content as the masseur of the salons who was,who,singular,masseur,skater,salon
+132,Sandra chatted with the gardeners of the millionaire who,Sandra chatted with the gardener of the gardens who was,who,singular,gardeners,millionaire,garden
+133,Sara did the painting of the cove which,Sara did the painting of the painters which was,which,singular,painting,cove,painter
+134,Sarah jogs with the uncle of the toddlers who,Sarah jogs with the uncle of the palaces who was,who,singular,uncle,toddlers,palace
+135,Scott counted the fans of the singer who,Scott counted the fan of the clubs who was,who,singular,fans,singer,club
+136,Several men moved the machines of the factories which,Several men moved the machine of the models which was,which,singular,machines,factories,models
+137,Silvia did n't find the cover of the pot which,Silvia did n't find the cover of the guides which was,which,singular,cover,pot,guides
+138,Someone shot the servant of the actress who,Someone shot the servant of the churches who was,who,singular,servant,actress,church
+139,Suzanne sold the painting of the beach which,Suzanne sold the painting of the painters which was,which,singular,painting,beach,painter
+140,The abbot met the father of the monk who,The abbot met the father of the houses who was,who,singular,father,monk,house
+141,The architect exhibited the drawing of the building which,The architect exhibited the drawing of the painters which was,which,singular,drawing,building,painter
+142,The architect sketched the foyer of the mansion which,The architect sketched the foyer of the doormen which was,which,singular,foyer,mansion,doorman
+143,The attorney defended the client of the realtor who,The attorney defended the client of the companies who was,who,singular,client,realtor,company
+144,The bartender served the cousin of the actor who,The bartender served the cousin of the houses who was,who,singular,cousin,actor,house
+145,The boss visited the uncle of the merchant who,The boss visited the uncle of the palaces who was,who,singular,uncle,merchant,palace
+146,The boy climbed the fence of the house which,The boy climbed the fence of the neighbors which was,which,singular,fence,house,neighbor
+147,The boys laughed at the grandmother of the girl who,The boys laughed at the grandmother of the houses who was,who,singular,grandmother,girl,house
+148,The boys poked fun at the nephew of the teacher who,The boys poked fun at the nephew of the palaces who was,who,singular,nephew,teacher,palace
+149,The boys poked fun at the niece of the teacher who,The boys poked fun at the writer of the poems who was,who,singular,writer,teacher,poem
+150,The brokers sold the stocks of the fund which,The brokers sold the stock of the cashiers which was,which,singular,stocks,fund,cashiers
+151,The busker warned the companion of the tramp who,The busker warned the companion of the companies who was,who,singular,companion,tramp,company
+152,The cameraman adored the actor of the director who,The cameraman adored the actor of the movies who was,who,singular,actor,director,movie
+153,The cameraman adored the director of the actor who,The cameraman adored the director of the universities who was,who,singular,director,actor,university
+154,The cameraman glanced at the director of the actors who,The cameraman glanced at the director of the universities who was,who,singular,director,actors,university
+155,The cameraman hated the relative of the actor who,The cameraman hated the relative of the laboratories who was,who,singular,relative,actor,laboratory
+156,The captain authorized the departure of the ship of the mast which,The captain authorized the departure of the ship of the secretary which was,which,singular,ship,mast,secretary
+157,The car stopped in front of the door of the house which,The car stopped in front of the door of the doormens which was,which,singular,door,house,doorman
+158,The caretaker drove away the footballs of the boys which   ,The caretaker drove away the football of the footballers which was,which,singular,footballs,boys,footballer
+159,The chairman phoned the boss of the clerks who,The chairman phoned the boss of the clubs who was,who,singular,boss,clerks,club
+160,The chancellor welcomed the advisor of the mayor who,The chancellor welcomed the advisor of the offices who was,who,singular,advisor,mayor,office
+161,The chef couldn' t find the cover of the pans which,The chef couldn't find the cover of the guides which was,which,singular,cover,pans,guides
+162,The chef hired the friend of the waiter who,The chef hired the friend of the houses who was,who,singular,friend,waiter,house
+163,The children followed the grandmother of the girl who,The children followed the grandmother of the houses who was,who,singular,grandmother,girl,house
+164,The children were poking fun at the donkey of the milkman which   ,The children were poking fun at the donkey of the tramps which was,which,singular,donkey,milkman,tramp
+165,The cleaning lady noticed the chief of the player who,The cleaning lady noticed the chief of the offices who was,who,singular,chief,player,office
+167,The clerk asked for the consultant of the economist who,The clerk asked for the consultant of the companies who was,who,singular,consultant,economist,company
+169,The client asked for the clerk of the solicitors who,The client asked for the clerk of the offices who was,who,singular,clerk,solicitors,office
+170,The client missed the patron of the artist who,The client missed the patron of the churches who was,who,singular,patron,artist,church
+171,The coach looked at the footballer of the fans who,The coach looked at the footballer of the clubs who was,who,singular,footballer,fans,club
+172,The coach looked at the physiotherapist of the footballer who,The coach looked at the physiotherapist of the laboratories who was,who,singular,physiotherapist,footballer,laboratory
+174,The collector lost the picture of the house which,The collector lost the picture of the models which was,which,singular,picture,house,models
+175,The cop greeted the son of the cook who,The cop greeted the son of the houses who was,who,singular,son,cook,house
+176,The count ordered the steak of the sauce which,The count ordered the steak of the cooks which was,which,singular,steak,sauce,cook
+177,The crazy man hit the dog of the neighbor which   ,The crazy man hit the dog of the boys which was,which,singular,dog,neighbor,boy
+178,The crewman cleaned the oar of the boat which,The crewman cleaned the oar of the tramps which was,which,singular,oar,boat,tramp
+179,The critics judge very harshly the lithograph of the park which,The critics judge very harshly the lithograph of the painters which was,which,singular,lithograph,park,painter
+180,The customer called to the assistants of the pharmacist who,The customer called to the assistant of the laboratories who was,who,singular,assistants,pharmacist,laboratory
+181,The customer spoke to the assistant of the pharmacist who,The customer spoke to the assistant of the laboratories who was,who,singular,assistant,pharmacist,laboratory
+182,The dean liked the secretary of the professor who,The dean liked the secretary of the offices who was,who,singular,secretary,professor,office
+183,The dean looked at the emblem of the college which,The dean looked at the emblem of the princes which was,which,singular,emblem,college,prince
+184,The dean was thinking about the professor of the researcher who,The dean was thinking about the professor of the universities who was,who,singular,professor,researcher,university
+185,The dean was thinking about the researcher of the professor who,The dean was thinking about the researcher of the laboratories who was,who,singular,researcher,professor,laboratory
+187,The designer agreed to show us the sketch of the house which,The designer agreed to show us the sketch of the artists which was,which,singular,sketch,house,artist
+188,The detective photographed the friend of the student who,The detective photographed the friend of the houses who was,who,singular,friend,student,house
+189,The detective photographed the suitcase of the student which   ,The detective photographed the suitcase of the grooms which was,which,singular,suitcase,student,groom
+190,The detective pursued the bride of the prince who,The detective pursued the bride of the weddings who was,who,singular,bride,prince,wedding
+191,The director congratulated the instructor of the boy who,The director congratulated the instructor of the laboratories who was,who,singular,instructor,boy,laboratory
+193,The director discussed the set of the movie which,The director discussed the set of the builders which was,which,singular,set,movie,builder
+194,The director looked at the artists of the actress who,The director looked at the artist of the songs who was,who,singular,artists,actress,songs
+195,The director noticed the hairdresser of the actress who,The director noticed the hairdresser of the salons who was,who,singular,hairdresser,actress,salon
+196,The director spoke to the actor of the cameraman who,The director spoke to the actor of the movies who was,who,singular,actor,cameraman,movie
+197,The doctor contacted the lawyers of the nurses who,The doctor contacted the lawyer of the offices who was,who,singular,lawyers,nurses,office
+198,The doctor contacted the nurses of the lawyer who,The doctor contacted the nurse of the hospitals who was,who,singular,nurses,lawyer,hospital
+199,The doctor examined the nurse of the pupil who,The doctor examined the nurse of the hospitals who was,who,singular,nurse,pupil,hospital
+200,The doctor met the son of the colonel who,The doctor met the son of the houses who was,who,singular,son,colonel,house
+201,The doctor observed the attorney of the consultant who,The doctor observed the attorney of the offices who was,who,singular,attorney,consultant,office
+202,The doctor recognized the nurse of the patient who,The doctor recognized the nurse of the hospitals who was,who,singular,nurse,patient,hospital
+203,The doctor smiled at the nurses of the patient who,The doctor smiled at the nurse of the hospitals who was,who,singular,nurses,patient,hospital
+204,The dog barked at the football of the boy which   ,The dog barked at the football of the footballers which was,which,singular,football,boy,footballer
+205,The dog barked at the niece of the empress who,The dog barked at the writer of the poems who was,who,singular,writer,empress,poem
+206,The doorman was talking to the sister of the nurse who,The doorman was talking to the sister of the houses who was,who,singular,sister,nurse,house
+207,The dressmaker was sewing the dress of the girl which   ,The dressmaker was sewing the dress of the hairdressers which was,which,singular,dress,girl,hairdresser
+208,The economist liked the journalist of the editor who,The economist liked the journalist of the universities who was,who,singular,journalist,editor,university
+209,The emperor described the painting of the crown which,The emperor described the painting of the painters which was,which,singular,painting,crown,painter
+210,The employee greeted the worker of the manager who,The employee greeted the worker of the hospitals who was,who,singular,worker,manager,hospital
+211,The explosion deafened the assistant of the inspector who,The explosion deafened the assistant of the laboratories who was,who,singular,assistant,inspector,laboratory
+212,The explosion reached the assistant of the superintendent who,The explosion reached the assistant of the laboratories who was,who,singular,assistant,superintendent,laboratory
+213,The explosion reached the car of the teacher which   ,The explosion reached the car of the drivers which was,which,singular,car,teacher,driver
+214,The fan despised the mascot of the team which,The fan despised the mascot of the cheerleaders which was,which,singular,mascot,team,cheerleaders
+215,The fan looked at the guitarist of the singers who,The fan looked at the guitarist of the bands who was,who,singular,guitarist,singers,band
+216,The fireman called to the photographer of the journalist who,The fireman called to the photographer of the sculptures who was,who,singular,photographer,journalist,sculpture
+217,The fireman observed the photographers of the journalist who,The fireman observed the photographer of the sculptures who was,who,singular,photographers,journalist,sculpture
+218,The girl was interested in the artist of the actress who,The girl was interested in the artist of the sculptures who was,who,singular,artist,actress,sculpture
+219,The governor bought some books for the library of the school which,The governor bought some books for the library of the visitors which was,which,singular,library,school,visitor
+220,The grandfather bothered the father of the boy who,The grandfather bothered the father of the houses who was,who,singular,father,boy,house
+221,The guest impressed the brother of the bridegroom who,The guest impressed the brother of the houses who was,who,singular,brother,bridegroom,house
+222,The headmaster called to the pupils of the teacher who,The headmaster called to the pupil of the schools who was,who,singular,pupils,teacher,school
+223,The headmaster called to the teacher of the pupil who,The headmaster called to the teacher of the schools who was,who,singular,teacher,pupil,school
+224,The headmaster smiled at the pupils of the teacher who,The headmaster smiled at the pupil of the schools who was,who,singular,pupils,teacher,school
+225,The host insulted the friend of the pharmacist who,The host insulted the friend of the houses who was,who,singular,friend,pharmacist,house
+226,The hotel director didn't want to see the guide of the tourists who,The hotel director didn't want to see the guide of the books who was,who,singular,guide,tourists,book
+227,The housekeeper searched for the maid of the duchess who,The housekeeper searched for the maid of the palaces who was,who,singular,maid,duchess,palace
+228,The impolite students stared at the husband of the headmaster who,The impolite students stared at the husband of the houses who was,who,singular,husband,headmaster,house
+229,The inspector glanced at the deputies of the policeman who,The inspector glanced at the deputy of the offices who was,who,singular,deputies,policeman,office
+231,The inspector observed the suitcase of the traveler which   ,The inspector observed the suitcase of the grooms which was,which,singular,suitcase,traveler,groom
+232,The inspector watched the deputies of the policemen who,The inspector watched the deputy of the offices who was,who,singular,deputies,policemen,office
+233,The insurance inspector photographed the engine of the boat which,The insurance inspector photographed the engine of the mechanics which was,which,singular,engine,boat,mechanic
+234,The interviewer looked at the bodyguards of the prince who,The interviewer looked at the bodyguard of the palaces who was,who,singular,bodyguards,prince,palace
+235,The interviewer paid the son of the journalist who,The interviewer paid the son of the houses who was,who,singular,son,journalist,house
+236,The journalist asked for the secretary of the minister who,The journalist asked for the secretary of the offices who was,who,singular,secretary,minister,office
+237,The journalist called to the secretary of the ministers who,The journalist called to the secretary of the offices who was,who,singular,secretary,ministers,office
+238,The journalist criticized the pilot of the traveler who,The journalist criticized the pilot of the planes who was,who,singular,pilot,traveler,plane
+239,The journalist had interviewed the daughter of the colonel who,The journalist had interviewed the daughter of the houses who was,who,singular,daughter,colonel,house
+240,The journalist hated the soldier of the colonel who,The journalist hated the soldier of the groups who was,who,singular,soldier,colonel,group
+241,The journalist hated the soldiers of the colonels who,The journalist hated the soldier of the armies who was,who,singular,soldiers,colonels,army
+242,The journalist interviewed the agent of the author who,The journalist interviewed the agent of the companies who was,who,singular,agent,author,company
+243,The journalist interviewed the assistant of the inspector who,The journalist interviewed the assistant of the laboratories who was,who,singular,assistant,inspector,laboratory
+244,The journalist interviewed the chauffeur of the mayoress who,The journalist interviewed the chauffeur of the limousines who was,who,singular,chauffeur,mayoress,limousine
+245,The journalist interviewed the coach of the gymnasts who,The journalist interviewed the coach of the teams who was,who,singular,coach,gymnasts,team
+246,The journalist interviewed the daughter of the colonel who,The journalist interviewed the daughter of the houses who was,who,singular,daughter,colonel,house
+248,The journalist interviewed the mistress of the queen who,The journalist interviewed the mistress of the palaces who was,who,singular,mistress,queen,palace
+249,The journalist interviewed the secretary of the mayor who,The journalist interviewed the secretary of the offices who was,who,singular,secretary,mayor,office
+250,The journalist photographed the daughter of the king who,The journalist photographed the daughter of the houses who was,who,singular,daughter,king,house
+251,The journalist was unable to interview the daughter of the hostages who,The journalist was unable to interview the daughter of the houses who was,who,singular,daughter,hostages,house
+252,The judge recognized the solicitor of the criminal who,The judge recognized the solicitor of the offices who was,who,singular,solicitor,criminal,office
+253,The lawyer contacted the clerk of the judge who,The lawyer contacted the clerk of the offices who was,who,singular,clerk,judge,office
+254,The little girl envied the maid of the princess who,The little girl envied the maid of the hotels who was,who,singular,maid,princess,hotel
+255,The little girl envied the princess of the maid who,The little girl envied the princess of the palaces who was,who,singular,princess,maid,palace
+256,The local newspaper columnist wrote about the mascot of the club which,The local newspaper columnist wrote about the mascot of the cheerleaders which was,which,singular,mascot,club,cheerleaders
+257,The lorry ran over the bicycle of the policeman which   ,The lorry ran over the bicycle of the drivers which was,which,singular,bicycle,policeman,driver
+258,The maiden was having a look at the wardrobe of the countess which   ,The maiden was having a look at the wardrobe of the grooms which was,which,singular,wardrobe,countess,groom
+259,The man asked for the apprentices of the builder who,The man asked for the apprentice of the factories who was,who,singular,apprentices,builder,factories
+260,The man called to the guide of the travelers who,The man called to the guide of the books who was,who,singular,guide,travelers,book
+261,The man collects the wines of the beers  which,The man collects the wine of the tourists which was,which,singular,wines,beers,tourists
+262,The man folds the pants of the pullovers  which,The man folds the pant of the toddlers which was,which,singular,pants,pullovers,toddlers
+263,The man grabs the keys of the phones  which,The man grabs the key of the drivers which was,which,singular,keys,phones,driver
+264,The man marks the crates of the boxes  which,The man marks the crate of the models which was,which,singular,crates,boxes,models
+265,The man noticed the hairdresser of the singers who,The man noticed the hairdresser of the salons who was,who,singular,hairdresser,singers,salon
+266,The man observed the barrister of the criminals who,The man observed the barrister of the offices who was,who,singular,barrister,criminals,office
+267,The man observed the sergeant of the soldiers who,The man observed the sergeant of the offices who was,who,singular,sergeant,soldiers,office
+268,The man questioned the guide of the tourist who,The man questioned the guide of the books who was,who,singular,guide,tourist,book
+269,The man removes the towels of the bathrobes  which,The man removes the towel of the cleaners which was,which,singular,towels,bathrobes,cleaner
+270,The man serves the drinks of the dishes  which,The man serves the drink of the cooks which was,which,singular,drinks,dishes,cook
+271,The man smiled at the supervisor of the clerk who,The man smiled at the supervisor of the offices who was,who,singular,supervisor,clerk,office
+272,The man spoke to the secretary of the manager who,The man spoke to the secretary of the offices who was,who,singular,secretary,manager,office
+273,The man washes the scooters of the bicycles  which,The man washes the scooter of the models which was,which,singular,scooters,bicycles,models
+274,The mayor talked with the widower of the fisherman who,The mayor talked with the widower of the mansions who was,who,singular,widower,fisherman,mansion
+275,The mechanics were modifying the car of the driver which   ,The mechanics were modifying the car of the drivers which was,which,singular,car,driver,driver
+276,The millionaire was shown the house of the pool which,The millionaire was shown the house of the neighbors which was,which,singular,house,pool,neighbor
+277,The newspaper wrote a story about the uncle of the milkman who,The newspaper wrote a story about the uncle of the palaces who was,who,singular,uncle,milkman,palace
+278,The nurse bumped into the visitor of the patient who,The nurse bumped into the visitor of the hotels who was,who,singular,visitor,patient,hotel
+279,The nurse took the syrup of the patient which   ,The nurse took the syrup of the cooks which was,which,singular,syrup,patient,cook
+280,The nurse trusted the doctor of the teacher who,The nurse trusted the doctor of the hospitals who was,who,singular,doctor,teacher,hospital
+281,The old lady was observing the toy of the baby which   ,The old lady was observing the toy of the toddlers which was,which,singular,toy,baby,toddlers
+282,The patient stained with blood the notebook of the doctor which   ,The patient stained with blood the notebook of the guides which was,which,singular,notebook,doctor,guides
+283,The peasant was gazing at the luggage of the wanderer which   ,The peasant was gazing at the luggage of the travelers which was,which,singular,luggage,wanderer,travelers
+284,The people watched the box of the soldier which   ,The people watched the box of the cleaners which was,which,singular,box,soldier,cleaner
+285,The personal manager was observing the secretary of the accountants who,The personal manager was observing the secretary of the offices who was,who,singular,secretary,accountants,office
+286,The photographer ignored the ministers of the president who,The photographer ignored the minister of the conferences who was,who,singular,ministers,president,conference
+287,The photographer liked the artists of the models who,The photographer liked the artist of the songs who was,who,singular,artists,models,songs
+288,The pilot was looking at the airport through the window of the plane which,The pilot was looking at the airport through the window of the doormen which was,which,singular,window,plane,doorman
+289,The plumber adjusted the pipe of the sinks which,The plumber adjusted the pipe of the cleaners which was,which,singular,pipe,sinks,cleaner
+290,The plumber suggested to us to change the faucet of the sink which,The plumber suggested to us to change the faucet of the cleaners which was,which,singular,faucet,sink,cleaner
+291,The police arrested the brother of the porter who,The police arrested the brother of the houses who was,who,singular,brother,porter,house
+292,The police arrested the chauffeur of the actor who,The police arrested the chauffeur of the limousines who was,who,singular,chauffeur,actor,limousine
+293,The police arrested the cousin of the painter who,The police arrested the cousin of the houses who was,who,singular,cousin,painter,house
+294,The police arrested the maiden of the marquis who,The police arrested the maiden of the crowns who was,who,singular,maiden,marquis,crown
+295,The police arrested the servant of the marquis who,The police arrested the servant of the churches who was,who,singular,servant,marquis,church
+296,The police arrested the sister of the nurse who,The police arrested the sister of the houses who was,who,singular,sister,nurse,house
+298,The policeman arrested the supervisor of the bodyguards who,The policeman arrested the supervisor of the offices who was,who,singular,supervisor,bodyguards,office
+299,The postman approached the secretary of the manager who,The postman approached the secretary of the offices who was,who,singular,secretary,manager,office
+300,The professor frowned at the technician of the physician who,The professor frowned at the technician of the laboratories who was,who,singular,technician,physician,laboratory
+302,The professor read the book of the student which   ,The professor read the book of the authors which was,which,singular,book,student,author
+303,The professor read the review of the poem which,The professor read the review of the guides which was,which,singular,review,poem,guides
+304,The publisher hated the executive of the economist who,The publisher hated the executive of the companies who was,who,singular,executive,economist,company
+305,The publisher rejected the cover of the book which,The publisher rejected the cover of the illustrators which was,which,singular,cover,book,illustrator
+306,The publisher smiled at the illustrator of the poet who,The publisher smiled at the illustrator of the sculptures who was,who,singular,illustrator,poet,sculpture
+308,The pupil teased the son of the teacher who,The pupil teased the son of the houses who was,who,singular,son,teacher,house
+309,The rain wet the hammock of the priest which   ,The rain wet the hammock of the toddlers which was,which,singular,hammock,priest,toddlers
+310,The receptionist greeted the client of the lawyers who,The receptionist greeted the client of the companies who was,who,singular,client,lawyers,company
+311,The red cross took the luggage of the refugees which   ,The red cross took the luggage of the travelers which was,which,singular,luggage,refugees,travelers
+312,The reporter filmed the arms of the rebels which   ,The reporter filmed the arm of the bodyguards which was,which,singular,arms,rebels,bodyguards
+313,The reporter phoned the boss of the secretary who,The reporter phoned the boss of the clubs who was,who,singular,boss,secretary,club
+314,The reporter questioned the coach of the gymnast who,The reporter questioned the coach of the teams who was,who,singular,coach,gymnast,team
+315,The reporter watched the lawyers of the criminals who,The reporter watched the lawyer of the offices who was,who,singular,lawyers,criminals,office
+316,The reporters interviewed the attorney of the defendant who,The reporters interviewed the attorney of the offices who was,who,singular,attorney,defendant,office
+317,The restaurant owner motioned to the waitress of the woman who,The restaurant owner motioned to the waitress of the hotels who was,who,singular,waitress,woman,hotel
+318,The rumours accused the brother of the banker who,The rumours accused the brother of the houses who was,who,singular,brother,banker,house
+319,The sculptor finished the base of the statue which,The sculptor finished the base of the mechanics which was,which,singular,base,statue,mechanic
+320,The secretary saw the driver of the manager who,The secretary saw the driver of the motorbikes who was,who,singular,driver,manager,motorbikes
+321,The servant contemplated the show of the guest which   ,The servant contemplated the show of the celebrities which was,which,singular,show,guest,celebrity
+322,The singer called the sister of the groom who,The singer called the sister of the houses who was,who,singular,sister,groom,house
+323,The sponsor met the coach of the player who,The sponsor met the coach of the teams who was,who,singular,coach,player,team
+324,The student met the colleague of the professor who,The student met the colleague of the universities who was,who,singular,colleague,professor,university
+325,The student photographed the fan of the actress who,The student photographed the fan of the movies who was,who,singular,fan,actress,movie
+326,The supplier liked the employee of the gardener who,The supplier liked the employee of the companies who was,who,singular,employee,gardener,company
+327,The teacher was talking with the relative of the boy who,The teacher was talking with the relative of the laboratories who was,who,singular,relative,boy,laboratory
+328,The teenagers spied on the niece of the teacher who,The teenagers spied on the writer of the poems who was,who,singular,writer,teacher,poem
+329,The tenant greeted the grandfather of the caretaker who,The tenant greeted the grandfather of the houses who was,who,singular,grandfather,caretaker,house
+330,The terrorists kidnapped the granddaughter of the steward who,The terrorists kidnapped the granddaughter of the houses who was,who,singular,granddaughter,steward,house
+331,The therapist treated the patient of the nurse who,The therapist treated the patient of the hospitals who was,who,singular,patient,nurse,hospital
+332,The thief hit the technician of the dentist who,The thief hit the technician of the laboratories who was,who,singular,technician,dentist,laboratory
+333,The thief took the key of the trunks which,The thief took the key of the guides which was,which,singular,key,trunks,guides
+334,The tourist disliked the roof of the church which,The tourist disliked the roof of the neighbors which was,which,singular,roof,church,neighbor
+335,The tourist made a sketch of the grandson of the peasant who,The tourist made a sketch of the grandson of the house who was,who,singular,grandson,peasant,house
+336,The tourist photographed the mule of the peasant who,The tourist photographed the driver of the motorbikes who was,who,singular,driver,peasant,motorbikes 
+337,The tourists admired the museum of the city which,The tourists admired the museum of the visitors which was,which,singular,museum,city,visitor
+338,The visitor toured the garden of the palace which,The visitor toured the garden of the gardeners which was,which,singular,garden,palace,gardener
+339,The waiter watched the cousin of the tourist who,The waiter watched the cousin of the houses who was,who,singular,cousin,tourist,house
+340,The wind blow the canvas of the sailor which   ,The wind blow the canvas of the painters which was,which,singular,canvas,sailor,painter
+341,The woman blamed the apprentice of the hairdresser who,The woman blamed the apprentice of the colleges who was,who,singular,apprentice,hairdresser,college
+342,The woman blamed the hairdresser of the apprentices who,The woman blamed the hairdresser of the salons who was,who,singular,hairdresser,apprentices,salon
+343,The woman carpenters the shelf of the bedroom which,The woman carpenters the shelf of the cleaners which was,which,singular,shelf,bedroom,cleaner
+344,The woman caught the attention of the publicist of the artists who,The woman caught the attention of the publicist of the cities who was,who,singular,publicist,artists,city
+345,The woman closes the window of the bathroom which,The woman closes the window of the doormen which was,which,singular,window,bathroom,doorman
+346,The woman cuts the rosebush of the garden which,The woman cuts the rosebush of the gardeners which was,which,singular,rosebush,garden,gardener
+347,The woman decorates the cabinet of the room which,The woman decorates the cabinet of the ministers which was,which,singular,cabinet,room,ministers
+348,The woman decorates the lobby of the factory which,The woman decorates the lobby of the doormen which was,which,singular,lobby,factory,doorman
+349,The woman delivers the flowers of the parcels  which,The woman delivers the flower of the florists which was,which,singular,flowers,parcels,florist
+350,The woman disinfects the pillow of the couch which,The woman disinfects the pillow of the toddlers which was,which,singular,pillow,couch,toddlers
+351,The woman draws the apples of the bananas which,The woman draws the apple of the cooks which was,which,singular,apples,bananas,cook
+352,The woman dusts the frames of the lamps  which,The woman dusts the frame of the models which was,which,singular,frames,lamps,models
+353,The woman empties the register of the shop which,The woman empties the register of the accountants which was,which,singular,register,shop,accountants
+354,The woman engraves the head of the bed which,The woman engraves the head of the headmasters which was,which,singular,head,bed,headmaster
+355,The woman exchanges the bulbs of the lamps which,The woman exchanges the bulbs of the cleaners which was,which,singular,bulbs,lamps,cleaner
+356,The woman fastens the ropes of the hammocks which,The woman fastens the rope of the tramps which was,which,singular,ropes,hammocks,tramp
+357,The woman feeds the dogs of the cats  which,The woman feeds the dog of the toddlers which was,which,singular,dogs,cats,toddlers
+358,The woman films the loudspeakers of the stereo which,The woman films the loudspeaker of the models which was,which,singular,loudspeakers,stereo,models
+359,The woman installs the heater of the laundry which,The woman installs the heater of the cleaners which was,which,singular,heater,laundry,cleaner
+360,The woman irons the shirts of the skirts  which,The woman irons the shirt of the cheerleaders which was,which,singular,shirts,skirts,cheerleaders
+361,The woman knew the photographer of the singer who,The woman knew the photographer of the sculptures who was,who,singular,photographer,singer,sculpture
+363,The woman lists the cars of the motorbikes  which,The woman lists the car of the drivers which was,which,singular,cars,motorbikes,driver
+364,The woman looked at the supervisor of the clerks who,The woman looked at the supervisor of the offices who was,who,singular,supervisor,clerks,office
+365,The woman observes the monitor of the computer which,The woman observes the monitor of the detectives which was,which,singular,monitor,computer,detectives
+366,The woman opens the drawer of the dresser which,The woman opens the drawer of the cleaners which was,which,singular,drawer,dresser,cleaner
+367,The woman patches the sleeve of the suit which,The woman patches the sleeve of the grooms which was,which,singular,sleeve,suit,groom
+368,The woman photographs the statues of the garden  which,The woman photographs the statue of the soldiers which was,which,singular,statues,garden,soldiers
+369,The woman polishes the knob of the cage which,The woman polishes the knob of the cleaners which was,which,singular,knob,cage,cleaner
+370,The woman presents the mugs of the plates  which,The woman presents the mug of the toddlers which was,which,singular,mugs,plates,toddlers
+371,The woman rakes the leafs of the bushes which,The woman rakes the garden of the colonels which was,which,singular,graden,bushes,colonels
+372,The woman removes the leash of the cat which,The woman removes the shirt of the children which was,which,singular,shirt ,cat,child
+373,The woman repairs the clocks of the scales  which,The woman repairs the clock of the models which was,which,singular,clocks,scales,models
+374,The woman scratches the roof of the dollhouse which,The woman scratches the roof of the neighbors which was,which,singular,roof,dollhouse,neighbor
+375,The woman searches the showcase of the shelf which,The woman searches the showcase of the celebrities which was,which,singular,showcase,shelf,celebrity
+376,The woman shifts the bench of the garage which,The woman shifts the bench of the players which was,which,singular,bench,garage,player
+377,The woman smashes the pane of the limousine which,The woman smashes the pane of the drivers which was,which,singular,pane,limousine,driver
+378,The woman wallpapers the wall of the kitchen which,The woman wallpapers the wall of the doormen which was,which,singular,wall,kitchen,doorman
+379,The woman watched the maids of the princess who,The woman watched the maid of the palaces who was,who,singular,maids,princess,palace
+380,The woman watches the birds of the butterflies  which,The woman watches the bird of the tourists which was,which,singular,birds,butterflies,tourists
+381,The woman waters the box of the balcony which,The woman waters the flower of the cleaners which was,which,singular,flower ,balcony,cleaner
+382,The woman waters the plants of the roses  which,The woman waters the plant of the gardeners which was,which,singular,plants,roses,gardener
+383,The young girl favored the driver of the player who,The young girl favored the driver of the motorbikes who was,who,singular,driver,player,motorbikes
+384,The young girl favored the player of the driver who,The young girl favored the player of the teams who was,who,singular,player,driver,team
+385,The young man noticed the singers of the guitarists who,The young man noticed the singer of the songs who was,who,singular,singers,guitarists,songs
+386,This afternoon I have seen the nurse of the doctor who,This afternoon I have seen the nurse of the hospitals who was,who,singular,nurse,doctor,hospital
+387,This afternoon I saw the nurse of the doctor who,This afternoon I saw the nurse of the hospitals who was,who,singular,nurse,doctor,hospital
+388,This afternoon I saw the son of the doctor who,This afternoon I saw the son of the houses who was,who,singular,son,doctor,house
+389,This morning I met the aunt of the mechanic who,This morning I met the aunt of the houses who was,who,singular,aunt,mechanic,house
+390,Tina knows the doctors of the supermodel who,Tina knows the doctor of the hospitals who was,who,singular,doctors,supermodel,hospital
+391,Tina met the gardeners of the millionaire who,Tina met the gardener of the gardens who was,who,singular,gardeners,millionaire,garden
+392,Tomorrow I have a date with the advisor of the attorney who,Tomorrow I have a date with the advisor of the offices who was,who,singular,advisor,attorney,office
+393,Tracy chatted with the bodyguards of the celebrity who,Tracy chatted with the bodyguard of the palaces who was,who,singular,bodyguards,celebrity,palace
+394,We borrowed the car of the neighbor which   ,We borrowed the car of the drivers which was,which,singular,car,neighbor,driver
+395,We have to paint the handlebar of the bicycle which,We have to paint the handlebar of the drivers which was,which,singular,handlebar,bicycle,driver
+396,We were worried about the grandmother of the babysitter who,We were worried about the grandmother of the houses who was,who,singular,grandmother,babysitter,house
+397,Yesterday I dropped the tray of the perfume which,Yesterday I dropped the tray of the cooks which was,which,singular,tray,perfume,cook
+398,Yesterday I met the friend of the councillor who,Yesterday I met the friend of the houses who was,who,singular,friend,councillor,house
+399,Yesterday I met with the girlfriend of the councillor who,Yesterday I met with the girlfriend of the weddings who was,who,singular,girlfriend,councillor,wedding
+400,Yesterday I saw the consultant of the director who,Yesterday I saw the consultant of the companies who was,who,singular,consultant,director,company
+401,Zack recognized the daughter of the shopkeepers who,Zack recognized the daughter of the houses who was,who,singular,daughter,shopkeepers,house
+0,A client looked at the clerk of the solicitor who,A client looked at the clerks of the office who were,who,plural,clerk,solicitor,office
+1,A client noticed the hairdresser of the actress who,A client noticed the hairdressers of the salon who were,who,plural,hairdresser,actress,salon
+2,A customer frowned at the assistant of the pharmacist who,A customer frowned at the assistants of the laboratory who were,who,plural,assistant,pharmacist,laboratory
+3,A fan looked at the guitarist of the singer who,A fan looked at the guitarists of the band who were,who,plural,guitarist,singer,band
+4,A man asked for the apprentice of the builder who,A man asked for the apprentices of the college who were,who,plural,apprentice,builder,college
+5,A man called to the guide of the traveler who,A man called to the guides of the book who were,who,plural,guide,traveler,book
+6,A man observed the barrister of the criminal who,A man observed the barristers of the office who were,who,plural,barrister,criminal,office
+7,A nurse smiled at the psychiatrist of the patient who,A nurse smiled at the psychiatrists of the hospital who were,who,plural,psychiatrist,patient,hospital
+8,A registered letter came for the landlord of the businessman who,A registered letter came for the landlords of the house who were,who,plural,landlord,businessman,house
+9,A reporter interviewed the bodyguard of the prince who,A reporter interviewed the bodyguards of the palace who were,who,plural,bodyguard,prince,palace
+10,A strange woman called to the travelers of the guides who,A strange woman called to the travelers of the hotel who were,who,plural,travelers,guides,hotel
+11,A student stared at the friend of the lawyer who,A student stared at the friends of the house who were,who,plural,friend,lawyer,house
+13,A student stared at the secretary of the teacher who,A student stared at the secretaries of the office who were,who,plural,secretary,teacher,office
+14,A thief was keeping an eye on the case of the tourist which   ,A thief was keeping an eye on the cases of the defendant which were,which,plural,case,tourist,defendant
+15,A woman caught the attention of the publicist of the writer who,A woman caught the attention of the publicists of the city who were,who,plural,publicist,writer,city
+16,Adam resembled the representative of the employees who,Adam resembled the representatives of the conference who were,who,plural,representative,employees,conference
+17,Alan punished the accountant of the businessmen who,Alan punished the accountants of the company who were,who,plural,accountant,businessmen,company
+18,Alan saw the accountant of the businessmen who,Alan saw the accountants of the company who were,who,plural,accountant,businessmen,company
+19,Alice lives next to the surgeon of the soldiers who,Alice lives next to the surgeons of the hospital who were,who,plural,surgeon,soldiers,hospital
+20,All of our friends liked the uncle of the student who,All of our friends liked the uncles of the palace who were,who,plural,uncle,student,palace
+21,All the newspapers published the photograph of the boy which   ,All the newspapers published the photographs of the painter which were,which,plural,photograph,boy,painter
+22,Alvaro was spying on the dog of the farmer which   ,Alvaro was spying on the dogs of the boy which were,which,plural,dog,farmer,boy
+23,Amelia photographed the bride of the princess who,Amelia photographed the brides of the wedding who were,who,plural,bride,princess,wedding
+24,Amelia was photographed with the girlfriend of the singer who,Amelia was photographed with the girlfriends of the wedding who were,who,plural,girlfriend,singer,wedding
+25,Amilia exchanges letters with the cousin of the singer who,Amilia exchanges letters with the cousins of the inheritence who were,who,plural,cousin,singer,inheritence 
+26,An armed robber shot the maid of the actress who,An armed robber shot the maids of the dresser who were,who,plural,maid,actress,dresser
+27,Andre had dinner with the niece of the porter who,Andre had dinner with the writers of the poem who were,who,plural,writer,porter,poem
+28,Andres had dinner with the niece of the doorman who,Andres was eating dinner with the writers of the poem who were,who,plural,writer,doorman,poem
+29,Andrew had dinner yesterday with the nephew of the teachers who,Andrew had dinner yesterday with the nephews of the palace who were,who,plural,nephew,teachers,palace
+30,Andrew had dinner yesterday with the niece of the porter who,Andrew ate yesterday with the writers of the poem who were,who,plural,writer,porter,poem
+31,Andrew was speaking with the niece of the cleaner who,Andrew was speaking with the writers of the poem who were,who,plural,writer,cleaner,poem
+32,Angela gossiped with the secretary of the lawyers who,Angela gossiped with the secretaries of the office who were,who,plural,secretary,lawyers,office
+33,Anna studied with the chef of the aristocrats who,Anna studied with the chefs of the office who were,who,plural,chef,aristocrats,office
+34,Ben interviewed the companion of the basketball player who,Ben interviewed the companions of the company who were,who,plural,companion,player,company
+35,Beth babysits the children of the musician who,Beth babysits the children of the school who were,who,plural,children,musician,school
+36,Bill congratulated the teacher of the secondgraders who,Bill congratulated the teachers of the school who were,who,plural,teacher,secondgraders,school
+37,Bill visited the teacher of the secondgraders who,Bill visited the teachers of the school who were,who,plural,teacher,secondgraders,school
+38,Billy threw away his chance to become the assistant of the tailor who,Billy threw away his chance to become the assistants of the laboratory who were,who,plural,assistant,tailor,laboratory
+39,Birds wo n't be able to nest in the branch of the tree which,Birds won't be able to nest in the gardens of the superintendent which were,which,plural,garden,tree,superintendent
+40,Bob greeted the leader of the activists who,Bob greeted the leaders of the party who were,who,plural,leader,activists,party
+41,Brian visited the associates of the businessman who,Brian visited the associates of the laboratory who were,who,plural,associates,businessman,laboratory
+42,Candice talked to the leader of the activists who,Candice talked to the leaders of the party who were,who,plural,leader,activists,party
+43,Carl works with the agent of the rockstars who,Carl works with the agents of the company who were,who,plural,agent,rockstars,company
+44,Casey looks like the father of the students who,Casey looks like the fathers of the house who were,who,plural,father,students,house
+45,Charles liked the portrait of the woman which   ,Charles liked the portraits of the painter which were,which,plural,portrait,woman,painter
+46,Charlie met the interpreter of the ambassador who,Charlie met the interpreters of the laboratory who were,who,plural,interpreter,ambassador,laboratory
+47,Craig inspected the servants of the dictator who,Craig inspected the servants of the house who were,who,plural,servants,dictator,house
+48,During the meeting the chief of protocol tried to talk to the translator of the ambassador who,During the meeting the chiefs of protocol tried to talk to the translators of the city who were,who,plural,chieftranslator,ambassador,city
+49,Emily angered the brother of the visitor who,Emily angered the brothers of the house who were,who,plural,brother,visitor,house
+50,Emily waited with the nieces of the florist who,Emily waited with the writers of the poem who were,who,plural,writer,florist,poems
+51,Everybody ignored the stepfather of the monk who,Everybody ignored the stepfathers of the house who were,who,plural,stepfather,monk,house
+52,Everybody in the office felt sorry about the death of the nephew of the director who,Everybody in the office felt sorry about the deaths of the nephews of the inheritence who were,who,plural,deathnephew,director,inheritence 
+53,Everyone knows the agent of the author who,Everyone knows the agents of the company who were,who,plural,agent,author,company
+54,Frank complimented the guests of the bride who,Frank complimented the guests of the hotel who were,who,plural,guests,bride,hotel
+55,Frank met the guests of the bride who,Frank met the guests of the hotel who were,who,plural,guests,bride,hotel
+56,Frank talked to the servants of the dictator who,Frank talked to the servants of the house who were,who,plural,servants,dictator,house
+57,Friends liked the uncle of the surgeon who,Friends liked the uncles of the palace who were,who,plural,uncle,surgeon,palace
+58,George interviewed the representative of the employees who,George interviewed the representatives of the conference who were,who,plural,representative,employees,conference
+59,George was stroking the cat of the girl which   ,George was stroking the cats of the boy which were,which,plural,cat,girl,boy
+60,Greg smiles at the secretaries of the lawyer who,Greg smiles at the secretaries of the office who were,who,plural,secretaries,lawyer,office
+61,I had to borrow the computer of the secretary which   ,I had to borrow the computers of the mechanic which were,which,plural,computer,secretary,mechanic
+62,I really liked the preface of the book which,I really liked the prefaces of the author which were,which,plural,preface,book,author
+63,I wanted to take the radio of the loudspeaker which,I wanted to take the radios of the host which were,which,plural,radio,loudspeaker,host
+64,I was surprised by the etching of the sculpture which,I was surprised by the etchings of the painter which were,which,plural,etching,sculpture,painter
+65,I was talking to the apprentice of the tailor who,I was talking to the apprentices of the college who were,who,plural,apprentice,tailor,college
+66,I was told the masseur of the skater who,I was told the masseurs of the salon who were,who,plural,masseur,skater,salon
+67,I watched the fans of the singers who,I watched the fans of the club who were,who,plural,fans,singers,club
+68,In the meeting they showed us the label of the bottle which,In the meeting they showed us the labels of the artist which were,which,plural,label,bottle,artists
+69,It was agreed to move the computer of the screen which,It was agreed to move the computers of the mechanic which were,which,plural,computer,screen,mechanic
+70,Ivana met the son of the delegates who,Ivana met the sons of the house who were,who,plural,son,delegates,house
+71,Janet worked as the chauffeur of the actor who,Janet worked as the chauffeurs of the limousine who were,who,plural,chauffeur,actor,limousine
+72,Jared noticed the friends of the athlete who,Jared noticed the friends of the wedding who were,who,plural,friends,athlete,wedding
+73,Jenny joked with the maid of the executives who,Jenny joked with the maids of the palace who were,who,plural,maid,executives,palace
+74,Jessica worked with the doctors of the supermodel who,Jessica worked with the doctors of the hospital who were,who,plural,doctors,supermodel,hospital
+75,Jill started out as the consultant of the director who,Jill started out as the consultants of the company who were,who,plural,consultant,director,company
+76,Joe ran into the brothers of the athlete who,Joe ran into the brothers of the house who were,who,plural,brothers,athlete,house
+77,Joel hires the bodyguards of the celebrity who,Joel hires the bodyguards of the palace who were,who,plural,bodyguards,celebrity,palace
+78,John despised the chauffeur of the millionaire who,John despised the chauffeurs of the limousine who were,who,plural,chauffeur,millionaire,limousine
+79,John liked the mechanic of the officer who,John liked the mechanics of the factory who were,who,plural,mechanic,officer,factory
+80,John lived next to the teacher of the secondgraders who,John lived next to the teachers of the school who were,who,plural,teacher,secondgraders,school
+81,John met the friend of the teacher who,John met the friends of the house who were,who,plural,friend,teacher,house
+82,John smashed the car of the company which,John smashed the cars of the driver which were,which,plural,car,company,driver
+83,John was hired as the assistant of the inspector who,John was hired as the assistants of the laboratory who were,who,plural,assistant,inspector,laboratory
+84,Julia had spoken to the secretary of the lawyers who,Julia had spoken to the secretaries of the office who were,who,plural,secretary,lawyers,office
+85,Justin carpools with the cousins of the accountant who,Justin carpools with the cousins of the house who were,who,plural,cousins,accountant,house
+86,Kathy excelled as the secretary of the manager who,Kathy excelled as the secretaries of the office who were,who,plural,secretary,manager,office
+87,Ken videotaped the assistants of the CEO who,Ken videotaped the assistants of the laboratory who were,who,plural,assistants,CEO,laboratory
+88,Kevin counted the fans of the singer who,Kevin counted the fans of the club who were,who,plural,fans,singer,club
+89,Laura knows the manager of the cashiers who,Laura knows the managers of the team who were,who,plural,manager,cashiers,team
+90,Laura lost the notebook of the sticker which,Laura lost the notebooks of the guide which were,which,plural,notebook,sticker,guides
+91,Leslie is the translator of the ambassador who,Leslie is the translators of the book who were,who,plural,translator,ambassador,book
+92,Lewis ran over the carriage of the fruiterer which   ,Lewis ran over the carriages of the bridegroom which were,which,plural,carriage,fruiterer,bridegroom
+93,Lewis ran over the dog of the fruiterer which   ,Lewis ran over the dogs of the boy which were,which,plural,dog,fruiterer,boy
+94,Linda wrote to the the manager of the assistants who,Linda wrote to the the managers of the team who were,who,plural,manager,assistants,team
+95,Louise recognized the surgeon of the star who,Louise recognized the surgeons of the hospital who were,who,plural,surgeon,star,hospital
+96,Luis recognized the landlady of the actors who,Luis recognized the landladies of the house who were,who,plural,landlady,actors,house
+97,Marcie as happy as the nurse of the surgeon who,Marcie as happy as the nurses of the hospital who were,who,plural,nurse,surgeon,hospital
+98,Maria knows the assistant of the politician who,Maria knows the assistants of the laboratory who were,who,plural,assistant,politician,laboratory
+99,Maria loved the gardener of the executive who,Maria loved the gardeners of the garden who were,who,plural,gardener,executive,garden
+100,Marta was wearing the sunhat of the scarf which,Marta was wearing the sunhats of the delegate which were,which,plural,sunhat,scarf,delegates
+101,Martha cheered the brother of the priest who,Martha cheered the brothers of the house who were,who,plural,brother,priest,house
+102,Mary argued with the cousin of the milkman who,Mary argued with the cousins of the inheritence who were,who,plural,cousin,milkman,inheritence 
+103,Mary greeted the brother of the minister who,Mary greeted the brothers of the house who were,who,plural,brother,minister,house
+104,Mary replaced the wire of the amplifiers which,Mary replaced the wires of the mechanic which were,which,plural,wire,amplifiers,mechanic
+105,Mary went to the cinema with the son of the milkman who,Mary went to the cinema with the sons of the house who were,who,plural,son,milkman,house
+106,Melissa babysits the children of the musician who,Melissa babysits the children of the school who were,who,plural,children,musician,school
+107,Melissa dislikes the girls of the neighbor who,Melissa dislikes the girls of the school who were,who,plural,girls,neighbor,school
+108,Melissa watches the girls of the neighbor who,Melissa watches the girls of the school who were,who,plural,girls,neighbor,school
+109,Most of the patients liked the nurse of the surgeon who,Most of the patients liked the nurses of the hospital who were,who,plural,nurse,surgeon,hospital
+110,Mr. Johnson visited the servant of the actress who,Mr. Johnson visited the servants of the church who were,who,plural,servant,actress,church
+111,Mr. Miller ignored the student of the chemist who,Mr. Miller ignored the students of the university who were,who,plural,student,chemist,university
+112,My brother liked listening to the recording of the songs which,My brother liked listening to the recordings of the musician which were,which,plural,recording,songs,musician
+113,My farther visited the quarters of the soldiers which   ,My farther visited the quarters of the soldier which were,which,plural,quarters,soldiers,soldiers
+114,My friend met the aide of the detectives who,My friend met the aides of the office who were,who,plural,aide,detectives,office
+115,My mother argued with the maid of the duchess who,My mother argued with the maids of the palace who were,who,plural,maid,duchess,palace
+116,My mother argued with the servant of the duchess who,My mother argued with the servants of the church who were,who,plural,servant,duchess,church
+117,Nick stood near the captain of the sailors who,Nick stood near the captains of the team who were,who,plural,captain,sailors,team
+118,Nobody noticed the bodyguard of the ambassadors who,Nobody noticed the bodyguards of the palace who were,who,plural,bodyguard,ambassadors,palace
+119,On the shelf I keep the box of the cover which,On the shelf I keep the boxes of the cleaner which were,which,plural,box,cover,cleaner
+120,Patricia saw the the teacher of the students who,Patricia saw the the teachers of the school who were,who,plural,teacher,students,school
+121,Paul listens to the coach of the cheerleaders who,Paul listens to the coaches of the team who were,who,plural,coach,cheerleaders,team
+122,Peter had a good time with the sister of the girl who,Peter had a good time with the sisters of the house who were,who,plural,sister,girl,house
+123,Peter met the boyfriend of the host who,Peter met the boyfriends of the wedding who were,who,plural,boyfriend,host,wedding
+124,Peter met the friend of the teacher who,Peter met the friends of the house who were,who,plural,friend,teacher,house
+125,Peter was looking at the book of the girl which   ,Peter was looking at the books of the author which were,which,plural,book,girl,author
+126,Peter went to a concert yesterday with the mother of the countess who,Peter went to a concert yesterday with the mothers of the house who were,who,plural,mother,countess,house
+127,Rita failed as the advisor of the assistant who,Rita failed as the advisors of the office who were,who,plural,advisor,assistant,office
+128,Robert yelled at the friend of the artist who,Robert yelled at the friends of the neighborhood who were,who,plural,friend,artist,neighborhood
+129,Roxanne read the review of the poems which,Roxanne read the reviews of the guide which were,which,plural,review,poems,guides
+130,Ryan resembles the captain of the sailors who,Ryan resembles the captains of the team who were,who,plural,captain,sailors,team
+131,Samuel was not content as the masseur of the skater who,Samuel was not content as the masseurs of the salon who were,who,plural,masseur,skater,salon
+132,Sandra chatted with the gardeners of the millionaire who,Sandra chatted with the gardeners of the garden who were,who,plural,gardeners,millionaire,garden
+133,Sara did the painting of the cove which,Sara did the paintings of the painter which were,which,plural,painting,cove,painter
+134,Sarah jogs with the uncle of the toddlers who,Sarah jogs with the uncles of the palace who were,who,plural,uncle,toddlers,palace
+135,Scott counted the fans of the singer who,Scott counted the fans of the club who were,who,plural,fans,singer,club
+136,Several men moved the machines of the factories which,Several men moved the machines of the model which were,which,plural,machines,factories,models
+137,Silvia did n't find the cover of the pot which,Silvia did n't find the covers of the guide which were,which,plural,cover,pot,guides
+138,Someone shot the servant of the actress who,Someone shot the servants of the church who were,who,plural,servant,actress,church
+139,Suzanne sold the painting of the beach which,Suzanne sold the paintings of the painter which were,which,plural,painting,beach,painter
+140,The abbot met the father of the monk who,The abbot met the fathers of the house who were,who,plural,father,monk,house
+141,The architect exhibited the drawing of the building which,The architect exhibited the drawings of the painter which were,which,plural,drawing,building,painter
+142,The architect sketched the foyer of the mansion which,The architect sketched the foyers of the doorman which were,which,plural,foyer,mansion,doorman
+143,The attorney defended the client of the realtor who,The attorney defended the clients of the company who were,who,plural,client,realtor,company
+144,The bartender served the cousin of the actor who,The bartender served the cousins of the house who were,who,plural,cousin,actor,house
+145,The boss visited the uncle of the merchant who,The boss visited the uncles of the palace who were,who,plural,uncle,merchant,palace
+146,The boy climbed the fence of the house which,The boy climbed the fences of the neighbor which were,which,plural,fence,house,neighbor
+147,The boys laughed at the grandmother of the girl who,The boys laughed at the grandmothers of the house who were,who,plural,grandmother,girl,house
+148,The boys poked fun at the nephew of the teacher who,The boys poked fun at the nephews of the palace who were,who,plural,nephew,teacher,palace
+149,The boys poked fun at the niece of the teacher who,The boys poked fun at the writers of the poem who were,who,plural,writer,teacher,poem
+150,The brokers sold the stocks of the fund which,The brokers sold the stocks of the cashier which were,which,plural,stocks,fund,cashiers
+151,The busker warned the companion of the tramp who,The busker warned the companions of the company who were,who,plural,companion,tramp,company
+152,The cameraman adored the actor of the director who,The cameraman adored the actors of the movie who were,who,plural,actor,director,movie
+153,The cameraman adored the director of the actor who,The cameraman adored the directors of the university who were,who,plural,director,actor,university
+154,The cameraman glanced at the director of the actors who,The cameraman glanced at the directors of the university who were,who,plural,director,actors,university
+155,The cameraman hated the relative of the actor who,The cameraman hated the relatives of the laboratory who were,who,plural,relative,actor,laboratory
+156,The captain authorized the departure of the ship of the mast which,The captain authorized the departures of the ships of the secretary which were,which,plural,ship,mast,secretary
+157,The car stopped in front of the door of the house which,The car stopped in fronts of the doors of the doorman which were,which,plural,door,house,doorman
+158,The caretaker drove away the footballs of the boys which   ,The caretaker drove away the footballs of the footballer which were,which,plural,footballs,boys,footballer
+159,The chairman phoned the boss of the clerks who,The chairman phoned the bosses of the club who were,who,plural,boss,clerks,club
+160,The chancellor welcomed the advisor of the mayor who,The chancellor welcomed the advisors of the office who were,who,plural,advisor,mayor,office
+161,The chef couldn't find the cover of the pans which,The chef couldn't find the covers of the guide which were,which,plural,cover,pans,guides
+162,The chef hired the friend of the waiter who,The chef hired the friends of the house who were,who,plural,friend,waiter,house
+163,The children followed the grandmother of the girl who,The children followed the grandmothers of the house who were,who,plural,grandmother,girl,house
+164,The children were poking fun at the donkey of the milkman which   ,The children were poking fun at the donkeys of the tramp which were,which,plural,donkey,milkman,tramp
+165,The cleaning lady noticed the chief of the player who,The cleaning lady noticed the chiefs of the office who were,who,plural,chief,player,office
+167,The clerk asked for the consultant of the economist who,The clerk asked for the consultants of the company who were,who,plural,consultant,economist,company
+169,The client asked for the clerk of the solicitors who,The client asked for the clerks of the office who were,who,plural,clerk,solicitors,office
+170,The client missed the patron of the artist who,The client missed the patrons of the church who were,who,plural,patron,artist,church
+171,The coach looked at the footballer of the fans who,The coach looked at the footballers of the club who were,who,plural,footballer,fans,club
+172,The coach looked at the physiotherapist of the footballer who,The coach looked at the physiotherapists of the laboratory who were,who,plural,physiotherapist,footballer,laboratory
+174,The collector lost the picture of the house which,The collector lost the pictures of the model which were,which,plural,picture,house,models
+175,The cop greeted the son of the cook who,The cop greeted the sons of the house who were,who,plural,son,cook,house
+176,The count ordered the steak of the sauce which,The count ordered the steaks of the cook which were,which,plural,steak,sauce,cook
+177,The crazy man hit the dog of the neighbor which   ,The crazy man hit the dogs of the boy which were,which,plural,dog,neighbor,boy
+178,The crewman cleaned the oar of the boat which,The crewman cleaned the oars of the tramp which were,which,plural,oar,boat,tramp
+179,The critics judge very harshly the lithograph of the park which,The critics judge very harshly the lithographs of the painter which were,which,plural,lithograph,park,painter
+180,The customer called to the assistants of the pharmacist who,The customer called to the assistants of the laboratory who were,who,plural,assistants,pharmacist,laboratory
+181,The customer spoke to the assistant of the pharmacist who,The customer spoke to the assistants of the laboratory who were,who,plural,assistant,pharmacist,laboratory
+182,The dean liked the secretary of the professor who,The dean liked the secretaries of the office who were,who,plural,secretary,professor,office
+183,The dean looked at the emblem of the college which,The dean looked at the emblems of the prince which were,which,plural,emblem,college,prince
+184,The dean was thinking about the professor of the researcher who,The dean was thinking about the professors of the university who were,who,plural,professor,researcher,university
+185,The dean was thinking about the researcher of the professor who,The dean was thinking about the researchers of the laboratory who were,who,plural,researcher,professor,laboratory
+187,The designer agreed to show us the sketch of the house which,The designer agreed to show us the sketches of the artist which were,which,plural,sketch,house,artist
+188,The detective photographed the friend of the student who,The detective photographed the friends of the house who were,who,plural,friend,student,house
+189,The detective photographed the suitcase of the student which   ,The detective photographed the suitcases of the groom which were,which,plural,suitcase,student,groom
+190,The detective pursued the bride of the prince who,The detective pursued the brides of the wedding who were,who,plural,bride,prince,wedding
+191,The director congratulated the instructor of the boy who,The director congratulated the instructors of the laboratory who were,who,plural,instructor,boy,laboratory
+193,The director discussed the set of the movie which,The director discussed the sets of the builder which were,which,plural,set,movie,builder
+194,The director looked at the artists of the actress who,The director looked at the artists of the song who were,who,plural,artists,actress,songs
+195,The director noticed the hairdresser of the actress who,The director noticed the hairdressers of the salon who were,who,plural,hairdresser,actress,salon
+196,The director spoke to the actor of the cameraman who,The director spoke to the actors of the movie who were,who,plural,actor,cameraman,movie
+197,The doctor contacted the lawyers of the nurses who,The doctor contacted the lawyers of the office who were,who,plural,lawyers,nurses,office
+198,The doctor contacted the nurses of the lawyer who,The doctor contacted the nurses of the hospital who were,who,plural,nurses,lawyer,hospital
+199,The doctor examined the nurse of the pupil who,The doctor examined the nurses of the hospital who were,who,plural,nurse,pupil,hospital
+200,The doctor met the son of the colonel who,The doctor met the sons of the house who were,who,plural,son,colonel,house
+201,The doctor observed the attorney of the consultant who,The doctor observed the attorneys of the office who were,who,plural,attorney,consultant,office
+202,The doctor recognized the nurse of the patient who,The doctor recognized the nurses of the hospital who were,who,plural,nurse,patient,hospital
+203,The doctor smiled at the nurses of the patient who,The doctor smiled at the nurses of the hospital who were,who,plural,nurses,patient,hospital
+204,The dog barked at the football of the boy which   ,The dog barked at the footballs of the footballer which were,which,plural,football,boy,footballer
+205,The dog barked at the niece of the empress who,The dog barked at the writers of the poem who were,who,plural,writer,empress,poem
+206,The doorman was talking to the sister of the nurse who,The doorman was talking to the sisters of the house who were,who,plural,sister,nurse,house
+207,The dressmaker was sewing the dress of the girl which   ,The dressmaker was sewing the dresses of the hairdresser which were,which,plural,dress,girl,hairdresser
+208,The economist liked the journalist of the editor who,The economist liked the journalists of the university who were,who,plural,journalist,editor,university
+209,The emperor described the painting of the crown which,The emperor described the paintings of the painter which were,which,plural,painting,crown,painter
+210,The employee greeted the worker of the manager who,The employee greeted the workers of the hospital who were,who,plural,worker,manager,hospital
+211,The explosion deafened the assistant of the inspector who,The explosion deafened the assistants of the laboratory who were,who,plural,assistant,inspector,laboratory
+212,The explosion reached the assistant of the superintendent who,The explosion reached the assistants of the laboratory who were,who,plural,assistant,superintendent,laboratory
+213,The explosion reached the car of the teacher which   ,The explosion reached the cars of the driver which were,which,plural,car,teacher,driver
+214,The fan despised the mascot of the team which,The fan despised the mascots of the cheerleader which were,which,plural,mascot,team,cheerleaders
+215,The fan looked at the guitarist of the singers who,The fan looked at the guitarists of the band who were,who,plural,guitarist,singers,band
+216,The fireman called to the photographer of the journalist who,The fireman called to the photographers of the sculpture who were,who,plural,photographer,journalist,sculpture
+217,The fireman observed the photographers of the journalist who,The fireman observed the photographers of the sculpture who were,who,plural,photographers,journalist,sculpture
+218,The girl was interested in the artist of the actress who,The girl was interested in the artists of the sculpture who were,who,plural,artist,actress,sculpture
+219,The governor bought some books for the library of the school which,The governor bought some books for the libraries of the visitor which were,which,plural,library,school,visitor
+220,The grandfather bothered the father of the boy who,The grandfather bothered the fathers of the house who were,who,plural,father,boy,house
+221,The guest impressed the brother of the bridegroom who,The guest impressed the brothers of the house who were,who,plural,brother,bridegroom,house
+222,The headmaster called to the pupils of the teacher who,The headmaster called to the pupils of the school who were,who,plural,pupils,teacher,school
+223,The headmaster called to the teacher of the pupil who,The headmaster called to the teachers of the school who were,who,plural,teacher,pupil,school
+224,The headmaster smiled at the pupils of the teacher who,The headmaster smiled at the pupils of the school who were,who,plural,pupils,teacher,school
+225,The host insulted the friend of the pharmacist who,The host insulted the friends of the house who were,who,plural,friend,pharmacist,house
+226,The hotel director didn't want to see the guide of the tourists who,The hotel director didn't want to see the guides of the book who were,who,plural,guide,tourists,book
+227,The housekeeper searched for the maid of the duchess who,The housekeeper searched for the maids of the palace who were,who,plural,maid,duchess,palace
+228,The impolite students stared at the husband of the headmaster who,The impolite students stared at the husbands of the house who were,who,plural,husband,headmaster,house
+229,The inspector glanced at the deputies of the policeman who,The inspector glanced at the deputies of the office who were,who,plural,deputies,policeman,office
+231,The inspector observed the suitcase of the traveler which   ,The inspector observed the suitcases of the groom which were,which,plural,suitcase,traveler,groom
+232,The inspector watched the deputies of the policemen who,The inspector watched the deputies of the office who were,who,plural,deputies,policemen,office
+233,The insurance inspector photographed the engine of the boat which,The insurance inspector photographed the engines of the mechanic which were,which,plural,engine,boat,mechanic
+234,The interviewer looked at the bodyguards of the prince who,The interviewer looked at the bodyguards of the palace who were,who,plural,bodyguards,prince,palace
+235,The interviewer paid the son of the journalist who,The interviewer paid the sons of the house who were,who,plural,son,journalist,house
+236,The journalist asked for the secretary of the minister who,The journalist asked for the secretaries of the office who were,who,plural,secretary,minister,office
+237,The journalist called to the secretary of the ministers who,The journalist called to the secretaries of the office who were,who,plural,secretary,ministers,office
+238,The journalist criticized the pilot of the traveler who,The journalist criticized the pilots of the plane who were,who,plural,pilot,traveler,plane
+239,The journalist had interviewed the daughter of the colonel who,The journalist had interviewed the daughters of the house who were,who,plural,daughter,colonel,house
+240,The journalist hated the soldier of the colonel who,The journalist hated the soldiers of the group who were,who,plural,soldier,colonel,group
+241,The journalist hated the soldiers of the colonels who,The journalist hated the soldiers of the army who were,who,plural,soldiers,colonels,army
+242,The journalist interviewed the agent of the author who,The journalist interviewed the agents of the company who were,who,plural,agent,author,company
+243,The journalist interviewed the assistant of the inspector who,The journalist interviewed the assistants of the laboratory who were,who,plural,assistant,inspector,laboratory
+244,The journalist interviewed the chauffeur of the mayoress who,The journalist interviewed the chauffeurs of the limousine who were,who,plural,chauffeur,mayoress,limousine
+245,The journalist interviewed the coach of the gymnasts who,The journalist interviewed the coaches of the team who were,who,plural,coach,gymnasts,team
+246,The journalist interviewed the daughter of the colonel who,The journalist interviewed the daughters of the house who were,who,plural,daughter,colonel,house
+248,The journalist interviewed the mistress of the queen who,The journalist interviewed the mistresses of the palace who were,who,plural,mistress,queen,palace
+249,The journalist interviewed the secretary of the mayor who,The journalist interviewed the secretaries of the office who were,who,plural,secretary,mayor,office
+250,The journalist photographed the daughter of the king who,The journalist photographed the daughters of the house who were,who,plural,daughter,king,house
+251,The journalist was unable to interview the daughter of the hostages who,The journalist was unable to interview the daughters of the house who were,who,plural,daughter,hostages,house
+252,The judge recognized the solicitor of the criminal who,The judge recognized the solicitors of the office who were,who,plural,solicitor,criminal,office
+253,The lawyer contacted the clerk of the judge who,The lawyer contacted the clerks of the office who were,who,plural,clerk,judge,office
+254,The little girl envied the maid of the princess who,The little girl envied the maids of the hotel who were,who,plural,maid,princess,dresser
+255,The little girl envied the princess of the maid who,The little girl envied the princesses of the palace who were,who,plural,princess,maid,hotel
+256,The local newspaper columnist wrote about the mascot of the club which,The local newspaper columnist wrote about the mascots of the cheerleader which were,which,plural,mascot,club,cheerleaders
+257,The lorry ran over the bicycle of the policeman which   ,The lorry ran over the bicycles of the driver which were,which,plural,bicycle,policeman,driver
+258,The maiden was having a look at the wardrobe of the countess which   ,The maiden was having a look at the wardrobes of the groom which were,which,plural,wardrobe,countess,groom
+259,The man asked for the apprentices of the builder who,The man asked for the apprentices of the factory who were,who,plural,apprentices,builder,factories
+260,The man called to the guide of the travelers who,The man called to the guides of the book who were,who,plural,guide,travelers,book
+261,The man collects the wines of the beers  which,The man collects the wines of the tourist which were,which,plural,wines,beers,tourists
+262,The man folds the pants of the pullovers  which,The man folds the pants of the toddler which were,which,plural,pants,pullovers,toddlers
+263,The man grabs the keys of the phones  which,The man grabs the keys of the driver which were,which,plural,keys,phones,driver
+264,The man marks the crates of the boxes  which,The man marks the crates of the model which were,which,plural,crates,boxes,models
+265,The man noticed the hairdresser of the singers who,The man noticed the hairdressers of the salon who were,who,plural,hairdresser,singers,salon
+266,The man observed the barrister of the criminals who,The man observed the barristers of the office who were,who,plural,barrister,criminals,office
+267,The man observed the sergeant of the soldiers who,The man observed the sergeants of the office who were,who,plural,sergeant,soldiers,office
+268,The man questioned the guide of the tourist who,The man questioned the guides of the book who were,who,plural,guide,tourist,book
+269,The man removes the towels of the bathrobes  which,The man removes the towels of the cleaner which were,which,plural,towels,bathrobes,cleaner
+270,The man serves the drinks of the dishes  which,The man serves the drinks of the cook which were,which,plural,drinks,dishes,cook
+271,The man smiled at the supervisor of the clerk who,The man smiled at the supervisors of the office who were,who,plural,supervisor,clerk,office
+272,The man spoke to the secretary of the manager who,The man spoke to the secretaries of the office who were,who,plural,secretary,manager,office
+273,The man washes the scooters of the bicycles  which,The man washes the scooters of the model which were,which,plural,scooters,bicycles,models
+274,The mayor talked with the widower of the fisherman who,The mayor talked with the widowers of the mansion who were,who,plural,widower,fisherman,mansion
+275,The mechanics were modifying the car of the driver which   ,The mechanics were modifying the cars of the driver which were,which,plural,car,driver,driver
+276,The millionaire was shown the house of the pool which,The millionaire was shown the houses of the neighbor which were,which,plural,house,pool,neighbor
+277,The newspaper wrote a story about the uncle of the milkman who,The newspaper wrote a story about the uncles of the palace who were,who,plural,uncle,milkman,palace
+278,The nurse bumped into the visitor of the patient who,The nurse bumped into the visitors of the hotel who were,who,plural,visitor,patient,hotel
+279,The nurse took the syrup of the patient which   ,The nurse took the syrups of the cook which were,which,plural,syrup,patient,cook
+280,The nurse trusted the doctor of the teacher who,The nurse trusted the doctors of the hospital who were,who,plural,doctor,teacher,hospital
+281,The old lady was observing the toy of the baby which   ,The old lady was observing the toys of the toddler which were,which,plural,toy,baby,toddlers
+282,The patient stained with blood the notebook of the doctor which   ,The patient stained with blood the notebooks of the guide which were,which,plural,notebook,doctor,guides
+283,The peasant was gazing at the luggage of the wanderer which   ,The peasant was gazing at the luggages of the traveler which were,which,plural,luggage,wanderer,travelers
+284,The people watched the box of the soldier which   ,The people watched the boxes of the cleaner which were,which,plural,box,soldier,cleaner
+285,The personal manager was observing the secretary of the accountants who,The personal manager was observing the secretaries of the office who were,who,plural,secretary,accountants,office
+286,The photographer ignored the ministers of the president who,The photographer ignored the ministers of the conference who were,who,plural,ministers,president,conference
+287,The photographer liked the artists of the models who,The photographer liked the artists of the song who were,who,plural,artists,models,songs
+288,The pilot was looking at the airport through the window of the plane which,The pilot was looking at the airport through the windows of the doorman which were,which,plural,window,plane,doorman
+289,The plumber adjusted the pipe of the sinks which,The plumber adjusted the pipes of the cleaner which were,which,plural,pipe,sinks,cleaner
+290,The plumber suggested to us to change the faucet of the sink which,The plumber suggested to us to change the faucets of the cleaner which were,which,plural,faucet,sink,cleaner
+291,The police arrested the brother of the porter who,The police arrested the brothers of the house who were,who,plural,brother,porter,house
+292,The police arrested the chauffeur of the actor who,The police arrested the chauffeurs of the limousine who were,who,plural,chauffeur,actor,limousine
+293,The police arrested the cousin of the painter who,The police arrested the cousins of the house who were,who,plural,cousin,painter,house
+294,The police arrested the maiden of the marquis who,The police arrested the maidens of the crown who were,who,plural,maiden,marquis,crown
+295,The police arrested the servant of the marquis who,The police arrested the servants of the church who were,who,plural,servant,marquis,church
+296,The police arrested the sister of the nurse who,The police arrested the sisters of the house who were,who,plural,sister,nurse,house
+298,The policeman arrested the supervisor of the bodyguards who,The policeman arrested the supervisors of the office who were,who,plural,supervisor,bodyguards,office
+299,The postman approached the secretary of the manager who,The postman approached the secretaries of the office who were,who,plural,secretary,manager,office
+300,The professor frowned at the technician of the physician who,The professor frowned at the technicians of the laboratory who were,who,plural,technician,physician,laboratory
+302,The professor read the book of the student which   ,The professor read the books of the author which were,which,plural,book,student,author
+303,The professor read the review of the poem which,The professor read the reviews of the guide which were,which,plural,review,poem,guides
+304,The publisher hated the executive of the economist who,The publisher hated the executives of the company who were,who,plural,executive,economist,company
+305,The publisher rejected the cover of the book which,The publisher rejected the covers of the illustrator which were,which,plural,cover,book,illustrator
+306,The publisher smiled at the illustrator of the poet who,The publisher smiled at the illustrators of the sculpture who were,who,plural,illustrator,poet,sculpture
+308,The pupil teased the son of the teacher who,The pupil teased the sons of the house who were,who,plural,son,teacher,house
+309,The rain wet the hammock of the priest which   ,The rain wet the hammocks of the toddler which were,which,plural,hammock,priest,toddlers
+310,The receptionist greeted the client of the lawyers who,The receptionist greeted the clients of the company who were,who,plural,client,lawyers,company
+311,The red cross took the luggage of the refugees which   ,The red cross took the luggages of the traveler which were,which,plural,luggage,refugees,travelers
+312,The reporter filmed the arms of the rebels which   ,The reporter filmed the arms of the bodyguard which were,which,plural,arms,rebels,bodyguards
+313,The reporter phoned the boss of the secretary who,The reporter phoned the bosses of the club who were,who,plural,boss,secretary,club
+314,The reporter questioned the coach of the gymnast who,The reporter questioned the coaches of the team who were,who,plural,coach,gymnast,team
+315,The reporter watched the lawyers of the criminals who,The reporter watched the lawyers of the office who were,who,plural,lawyers,criminals,office
+316,The reporters interviewed the attorney of the defendant who,The reporters interviewed the attorneys of the office who were,who,plural,attorney,defendant,office
+317,The restaurant owner motioned to the waitress of the woman who,The restaurant owner motioned to the waitresses of the hotel who were,who,plural,waitress,woman,hotel
+318,The rumours accused the brother of the banker who,The rumours accused the brothers of the house who were,who,plural,brother,banker,house
+319,The sculptor finished the base of the statue which,The sculptor finished the bases of the mechanic which were,which,plural,base,statue,mechanic
+320,The secretary saw the driver of the manager who,The secretary saw the drivers of the motorbike who were,who,plural,driver,manager,motorbikes
+321,The servant contemplated the show of the guest which   ,The servant contemplated the shows of the celebrity which were,which,plural,show,guest,celebrity
+322,The singer called the sister of the groom who,The singer called the sisters of the house who were,who,plural,sister,groom,house
+323,The sponsor met the coach of the player who,The sponsor met the coaches of the team who were,who,plural,coach,player,team
+324,The student met the colleague of the professor who,The student met the colleagues of the university who were,who,plural,colleague,professor,university
+325,The student photographed the fan of the actress who,The student photographed the fans of the movie who were,who,plural,fan,actress,movie
+326,The supplier liked the employee of the gardener who,The supplier liked the employees of the company who were,who,plural,employee,gardener,company
+327,The teacher was talking with the relative of the boy who,The teacher was talking with the relatives of the laboratory who were,who,plural,relative,boy,laboratory
+328,The teenagers spied on the niece of the teacher who,The teenagers spied on the writers of the poem who were,who,plural,writer,teacher,poem
+329,The tenant greeted the grandfather of the caretaker who,The tenant greeted the grandfathers of the house who were,who,plural,grandfather,caretaker,house
+330,The terrorists kidnapped the granddaughter of the steward who,The terrorists kidnapped the granddaughters of the house who were,who,plural,granddaughter,steward,house
+331,The therapist treated the patient of the nurse who,The therapist treated the patients of the hospital who were,who,plural,patient,nurse,hospital
+332,The thief hit the technician of the dentist who,The thief hit the technicians of the laboratory who were,who,plural,technician,dentist,laboratory
+333,The thief took the key of the trunks which,The thief took the keys of the guide which were,which,plural,key,trunks,guides
+334,The tourist disliked the roof of the church which,The tourist disliked the roofs of the neighbor which were,which,plural,roof,church,neighbor
+335,The tourist made a sketch of the grandson of the peasant who,The tourist made a sketches of the grandsons of the house who were,who,plural,grandson,peasant,house
+336,The tourist photographed the mule of the peasant who,The tourist photographed the drivers of the motorbike who were,who,plural,driver,peasant,motorbikes
+337,The tourists admired the museum of the city which,The tourists admired the museums of the visitor which were,which,plural,museum,city,visitor
+338,The visitor toured the garden of the palace which,The visitor toured the gardens of the gardener which were,which,plural,garden,palace,gardener
+339,The waiter watched the cousin of the tourist who,The waiter watched the cousins of the house who were,who,plural,cousin,tourist,house
+340,The wind blow the canvas of the sailor which   ,The wind blow the canvases of the painter which were,which,plural,canvas,sailor,painter
+341,The woman blamed the apprentice of the hairdresser who,The woman blamed the apprentices of the college who were,who,plural,apprentice,hairdresser,college
+342,The woman blamed the hairdresser of the apprentices who,The woman blamed the hairdressers of the salon who were,who,plural,hairdresser,apprentices,salon
+343,The woman carpenters the shelf of the bedroom which,The woman carpenters the shelves of the cleaner which were,which,plural,shelf,bedroom,cleaner
+344,The woman caught the attention of the publicist of the artists who,The woman caught the attention of the publicists of the city who were,who,plural,publicist,artists,city
+345,The woman closes the window of the bathroom which,The woman closes the windows of the doorman which were,which,plural,window,bathroom,doorman
+346,The woman cuts the rosebush of the garden which,The woman cuts the rosebushes of the gardener which were,which,plural,rosebush,garden,gardener
+347,The woman decorates the cabinet of the room which,The woman decorates the cabinets of the minister which were,which,plural,cabinet,room,ministers
+348,The woman decorates the lobby of the factory which,The woman decorates the lobbies of the doorman which were,which,plural,lobby,factory,doorman
+349,The woman delivers the flowers of the parcels  which,The woman delivers the flowers of the florist which were,which,plural,flowers,parcels,florist
+350,The woman disinfects the pillow of the couch which,The woman disinfects the pillows of the toddler which were,which,plural,pillow,couch,toddlers
+351,The woman draws the apples of the bananas which,The woman draws the apples of the cook which were,which,plural,apples,bananas,cook
+352,The woman dusts the frames of the lamps  which,The woman dusts the frames of the model which were,which,plural,frames,lamps,models
+353,The woman empties the register of the shop which,The woman empties the registers of the accountant which were,which,plural,register,shop,accountants
+354,The woman engraves the head of the bed which,The woman engraves the heads of the headmaster which were,which,plural,head,bed,headmaster
+355,The woman exchanges the bulbs of the lamps which,The woman exchanges the bulb of the cleaner which were,which,plural,bulbs,lamps,cleaner
+356,The woman fastens the ropes of the hammocks which,The woman fastens the ropes of the tramp which were,which,plural,ropes,hammocks,tramp
+357,The woman feeds the dogs of the cats  which,The woman feeds the dogs of the toddler which were,which,plural,dogs,cats,toddlers
+358,The woman films the loudspeakers of the stereo which,The woman films the loudspeakers of the model which were,which,plural,loudspeakers,stereo,models
+359,The woman installs the heater of the laundry which,The woman installs the heaters of the cleaner which were,which,plural,heater,laundry,cleaner
+360,The woman irons the shirts of the skirts  which,The woman irons the shirts of the cheerleader which were,which,plural,shirts,skirts,cheerleaders
+361,The woman knew the photographer of the singer who,The woman knew the photographers of the sculpture who were,who,plural,photographer,singer,sculpture
+363,The woman lists the cars of the motorbikes  which,The woman lists the cars of the driver which were,which,plural,cars,motorbikes,driver
+364,The woman looked at the supervisor of the clerks who,The woman looked at the supervisors of the office who were,who,plural,supervisor,clerks,office
+365,The woman observes the monitor of the computer which,The woman observes the monitors of the detective which were,which,plural,monitor,computer,detectives
+366,The woman opens the drawer of the dresser which,The woman opens the drawers of the cleaner which were,which,plural,drawer,dresser,cleaner
+367,The woman patches the sleeve of the suit which,The woman patches the sleeves of the groom which were,which,plural,sleeve,suit,groom
+368,The woman photographs the statues of the garden  which,The woman photographs the statues of the soldier which were,which,plural,statues,garden,soldiers
+369,The woman polishes the knob of the cage which,The woman polishes the knobs of the cleaner which were,which,plural,knob,cage,cleaner
+370,The woman presents the mugs of the plates  which,The woman presents the mugs of the toddler which were,which,plural,mugs,plates,toddlers
+371,The woman rakes the leafs of the bushes which,The woman rakes the gardens of the colonel which were,which,plural,graden,bushes,colonels
+372,The woman removes the leash of the cat which,The woman removes the shirts of the child which were,which,plural,shirt ,cat,child
+373,The woman repairs the clocks of the scales  which,The woman repairs the clocks of the model which were,which,plural,clocks,scales,models
+374,The woman scratches the roof of the dollhouse which,The woman scratches the roofs of the neighbor which were,which,plural,roof,dollhouse,neighbor
+375,The woman searches the showcase of the shelf which,The woman searches the showcases of the celebrity which were,which,plural,showcase,shelf,celebrity
+376,The woman shifts the bench of the garage which,The woman shifts the benches of the player which were,which,plural,bench,garage,player
+377,The woman smashes the pane of the limousine which,The woman smashes the panes of the driver which were,which,plural,pane,limousine,driver
+378,The woman wallpapers the wall of the kitchen which,The woman wallpapers the walls of the doorman which were,which,plural,wall,kitchen,doorman
+379,The woman watched the maids of the princess who,The woman watched the maids of the palace who were,who,plural,maids,princess,palace
+380,The woman watches the birds of the butterflies  which,The woman watches the birds of the tourist which were,which,plural,birds,butterflies,tourists
+381,The woman waters the box of the balcony which,The woman waters the flowers of the cleaner which were,which,plural,flower ,balcony,cleaner
+382,The woman waters the plants of the roses  which,The woman waters the plants of the gardener which were,which,plural,plants,roses,gardener
+383,The young girl favored the driver of the player who,The young girl favored the drivers of the motorbike who were,who,plural,driver,player,motorbikes
+384,The young girl favored the player of the driver who,The young girl favored the players of the team who were,who,plural,player,driver,team
+385,The young man noticed the singers of the guitarists who,The young man noticed the singers of the song who were,who,plural,singers,guitarists,songs
+386,This afternoon I have seen the nurse of the doctor who,This afternoon I have seen the nurses of the hospital who were,who,plural,nurse,doctor,hospital
+387,This afternoon I saw the nurse of the doctor who,This afternoon I saw the nurses of the hospital who were,who,plural,nurse,doctor,hospital
+388,This afternoon I saw the son of the doctor who,This afternoon I saw the sons of the house who were,who,plural,son,doctor,house
+389,This morning I met the aunt of the mechanic who,This morning I met the aunts of the house who were,who,plural,aunt,mechanic,house
+390,Tina knows the doctors of the supermodel who,Tina knows the doctors of the hospital who were,who,plural,doctors,supermodel,hospital
+391,Tina met the gardeners of the millionaire who,Tina met the gardeners of the garden who were,who,plural,gardeners,millionaire,garden
+392,Tomorrow I have a date with the advisor of the attorney who,Tomorrow I have a date with the advisors of the office who were,who,plural,advisor,attorney,office
+393,Tracy chatted with the bodyguards of the celebrity who,Tracy chatted with the bodyguards of the palace who were,who,plural,bodyguards,celebrity,palace
+394,We borrowed the car of the neighbor which   ,We borrowed the cars of the driver which were,which,plural,car,neighbor,driver
+395,We have to paint the handlebar of the bicycle which,We have to paint the handlebars of the driver which were,which,plural,handlebar,bicycle,driver
+396,We were worried about the grandmother of the babysitter who,We were worried about the grandmothers of the house who were,who,plural,grandmother,babysitter,house
+397,Yesterday I dropped the tray of the perfume which,Yesterday I dropped the trays of the cook which were,which,plural,tray,perfume,cook
+398,Yesterday I met the friend of the councillor who,Yesterday I met the friends of the house who were,who,plural,friend,councillor,house
+399,Yesterday I met with the girlfriend of the councillor who,Yesterday I met with the girlfriends of the wedding who were,who,plural,girlfriend,councillor,wedding
+400,Yesterday I saw the consultant of the director who,Yesterday I saw the consultants of the company who were,who,plural,consultant,director,company
+401,Zack recognized the daughter of the shopkeepers who,Zack recognized the daughters of the house who were,who,plural,daughter,shopkeepers,house
